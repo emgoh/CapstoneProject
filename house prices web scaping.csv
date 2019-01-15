@@ -1,0 +1,1094 @@
+rank,city,distance,distance_in_km,cardinal_direction,median_prices
+1,Melbourne,0.1km,0.1,North,680100.00
+2,Southbank,1km,1,South,802600.00
+3,Docklands,1.1km,1.1,South-west,1294400.00
+4,West Melbourne,1.2km,1.2,West,1223700.00
+5,East Melbourne,1.8km,1.8,East,3005100.00
+6,North Melbourne,1.8km,1.8,North-west,1357700.00
+7,South Melbourne,1.8km,1.8,South,1591400.00
+8,Carlton,2km,2,North,1667500.00
+9,Carlton South,2km,2,North,
+10,Fitzroy,2km,2,North-east,1598400.00
+11,Collingwood,2.2km,2.2,North-east,1190200.00
+12,Parkville,2.4km,2.4,North,1959300.00
+13,Cremorne,2.9km,2.9,South-east,1394300.00
+14,Albert Park,3km,3,South,2122800.00
+15,Abbotsford,3.2km,3.2,East,1147800.00
+16,Richmond,3.2km,3.2,East,1324300.00
+17,Port Melbourne,3.3km,3.3,South-west,1515200.00
+18,Carlton North,3.4km,3.4,North,1490700.00
+19,South Yarra,3.6km,3.6,South-east,1785200.00
+20,Kensington,3.7km,3.7,North-west,1057400.00
+21,Princes Hill,3.7km,3.7,North,1922700.00
+22,Clifton Hill,3.9km,3.9,North-east,1293900.00
+23,Fitzroy North,3.9km,3.9,North-east,1521800.00
+24,Middle Park,4km,4,South,2830000.00
+25,Burnley,4.6km,4.6,East,1313000.00
+26,Brunswick East,4.7km,4.7,North,1133400.00
+27,Flemington,4.8km,4.8,North-west,988100.00
+28,Prahran,4.8km,4.8,South-east,1657400.00
+29,Prahran East,4.8km,4.8,South-east,
+30,Travancore,5km,5,North-west,1433800.00
+31,Toorak,5.1km,5.1,South-east,3522000.00
+32,Hawthorn,5.2km,5.2,East,2360000.00
+33,Brunswick,5.3km,5.3,North,1110400.00
+34,Brunswick North,5.3km,5.3,North,
+35,St Kilda West,5.3km,5.3,South,1960100.00
+36,Windsor,5.3km,5.3,South-east,1585600.00
+37,Ascot Vale,5.5km,5.5,North-west,1259200.00
+38,Brunswick West,5.8km,5.8,North,1042400.00
+39,Footscray,5.8km,5.8,West,890700.00
+40,Northcote,5.9km,5.9,North-east,1429700.00
+41,Seddon,6km,6,West,1005100.00
+42,St Kilda,6.1km,6.1,South,1689800.00
+43,Kew,6.3km,6.3,East,2189800.00
+44,Fairfield,6.4km,6.4,North-east,1278100.00
+45,Yarraville,6.4km,6.4,West,1115000.00
+46,Moonee Ponds,6.5km,6.5,North-west,1386700.00
+47,Armadale,6.7km,6.7,South-east,2554000.00
+48,Balaclava,6.7km,6.7,South-east,1274500.00
+49,Kooyong,6.7km,6.7,East,4245000.00
+50,St Kilda East,6.7km,6.7,South-east,1318500.00
+51,Thornbury,6.9km,6.9,North-east,1128600.00
+52,Alphington,7km,7,East,1652400.00
+53,Spotswood,7.1km,7.1,West,1075600.00
+54,Kingsville,7.5km,7.5,West,949000.00
+55,Ripponlea,7.5km,7.5,South-east,1099200.00
+56,Williamstown,7.5km,7.5,South-west,1491700.00
+57,Elwood,7.7km,7.7,South,1880600.00
+58,Essendon,7.7km,7.7,North-west,1436600.00
+59,Footscray West,7.7km,7.7,West,
+59,Newport,7.7km,7.7,West,1049400.00
+60,Malvern,7.8km,7.8,South-east,3143700.00
+61,Coburg,7.9km,7.9,North,976800.00
+62,Coburg East,7.9km,7.9,North,
+63,Hawthorn East,8.1km,8.1,East,2289100.00
+64,Kew East,8.2km,8.2,East,1797300.00
+65,Maribyrnong,8.2km,8.2,North-west,917600.00
+66,South Kingsville,8.3km,8.3,West,894400.00
+67,West Footscray,8.3km,8.3,West,899700.00
+68,Camberwell,8.4km,8.4,East,2132600.00
+69,Caulfield North,8.5km,8.5,South-east,1936800.00
+70,Ivanhoe,8.5km,8.5,North-east,1391500.00
+71,Pascoe Vale South,8.5km,8.5,North,1002600.00
+72,Elsternwick,8.6km,8.6,South-east,1845000.00
+73,Maidstone,8.6km,8.6,West,784100.00
+74,Aberfeldie,8.7km,8.7,North-west,1508400.00
+75,Essendon North,9.1km,9.1,North-west,887500.00
+76,Preston,9.1km,9.1,North-east,984100.00
+77,Preston West,9.1km,9.1,North-east,1283600.00
+78,Caulfield,9.3km,9.3,South-east,1621900.00
+79,Coburg North,9.3km,9.3,North,830500.00
+79,Deepdene,9.2km,9.2,East,2892900.00
+80,Essendon West,9.4km,9.4,North-west,1226200.00
+81,Strathmore,9.5km,9.5,North-west,1369300.00
+82,Williamstown North,9.5km,9.5,West,1130500.00
+83,Caulfield South,9.6km,9.6,South-east,1593000.00
+84,Ivanhoe East,9.6km,9.6,East,1990900.00
+85,Caulfield East,9.7km,9.7,South-east,1252600.00
+86,Glen Iris,9.7km,9.7,East,1870600.00
+87,Balwyn North,9.8km,9.8,East,1967500.00
+88,Pascoe Vale,9.9km,9.9,North,849400.00
+89,Avondale Heights,10km,10,West,886200.00
+90,Bellfield,10km,10,North-east,868000.00
+90,Tottenham,9.8km,9.8,West,
+91,Gardenvale,10km,10,South-east,1618600.00
+92,Heidelberg West,10km,10,North-east,719700.00
+93,Braybrook,10.2km,10.2,West,705500.00
+94,Brooklyn,10.2km,10.2,West,681800.00
+95,Altona North,10.4km,10.4,West,842100.00
+96,Balwyn,10.4km,10.4,East,2337900.00
+97,Canterbury,10.5km,10.5,East,2823400.00
+98,Glen Huntly,10.8km,10.8,South-east,1122500.00
+99,Brighton East,10.9km,10.9,South-east,1888300.00
+100,Eaglemont,10.9km,10.9,East,1768000.00
+101,Niddrie,10.9km,10.9,North-west,1069100.00
+102,Heidelberg Heights,11km,11,North-east,864700.00
+103,Heidelberg,11.2km,11.2,North-east,1077900.00
+104,Brighton,11.3km,11.3,South,2654300.00
+105,Oak Park,11.4km,11.4,North,837700.00
+106,Reservoir,11.5km,11.5,North,775400.00
+107,Ashburton,11.6km,11.6,East,1752700.00
+108,Malvern East,11.6km,11.6,South-east,1946900.00
+109,Carnegie,11.8km,11.8,South-east,1203700.00
+110,Surrey Hills,11.9km,11.9,East,1879400.00
+111,Rosanna,12km,12,North-east,1161000.00
+112,Sunshine,12km,12,West,781600.00
+113,Hadfield,12.1km,12.1,North,734400.00
+114,Ormond,12.1km,12.1,South-east,1385300.00
+115,Seaholme,12.1km,12.1,West,1129000.00
+116,Burwood,12.3km,12.3,East,1291200.00
+117,Strathmore Heights,12.3km,12.3,North-west,914800.00
+118,Keilor East,12.4km,12.4,North-west,880800.00
+119,Bulleen,12.5km,12.5,East,1259700.00
+120,Fawkner,12.5km,12.5,North,703000.00
+121,Mont Albert,12.5km,12.5,East,1986700.00
+122,Murrumbeena,12.5km,12.5,South-east,1307900.00
+123,Regent West,12.5km,12.5,North,
+124,McKinnon,12.6km,12.6,South-east,1531100.00
+125,Ashwood,12.7km,12.7,East,1336400.00
+126,Sunshine North,12.7km,12.7,West,687300.00
+127,Kingsbury,12.8km,12.8,North-east,735000.00
+128,Sunshine West,12.8km,12.8,West,665700.00
+129,Glenroy,12.9km,12.9,North,696700.00
+130,Mont Albert North,13.1km,13.1,East,1528100.00
+131,Airport West,13.2km,13.2,North-west,814300.00
+132,Altona,13.2km,13.2,West,965800.00
+133,Altona East,13.2km,13.2,West,
+134,Bentleigh,13.2km,13.2,South-east,1375400.00
+135,Albion,13.3km,13.3,West,696000.00
+136,Gowanbrae,13.4km,13.4,North-west,744400.00
+137,Hughesdale,13.5km,13.5,South-east,1198100.00
+138,Macleod,13.5km,13.5,North-east,913300.00
+139,Box Hill,13.7km,13.7,East,1725700.00
+140,Hampton,13.8km,13.8,South,1934100.00
+141,Box Hill South,14km,14,East,1241800.00
+142,Chadstone,14.1km,14.1,East,1024300.00
+143,Keilor Park,14.1km,14.1,North-west,732500.00
+144,Bentleigh East,14.2km,14.2,South-east,1223900.00
+145,Viewbank,14.4km,14.4,North-east,979500.00
+146,Ardeer,14.5km,14.5,West,643300.00
+147,Box Hill North,14.5km,14.5,East,1223700.00
+148,Doncaster,14.5km,14.5,East,1400000.00
+149,Jacana,14.5km,14.5,North,553200.00
+150,Kealba,14.5km,14.5,North-west,651900.00
+151,Laverton North,14.5km,14.5,West,
+152,Oakleigh,14.5km,14.5,South-east,1249900.00
+153,Templestowe Lower,14.5km,14.5,East,1187700.00
+154,Campbellfield,14.6km,14.6,North,557400.00
+155,Hampton East,14.7km,14.7,South-east,1250100.00
+156,Moorabbin,14.8km,14.8,South-east,1132500.00
+157,Broadmeadows,15.3km,15.3,North,547000.00
+158,Watsonia,15.4km,15.4,North-east,834000.00
+159,Keilor,15.5km,15.5,North-west,940800.00
+160,Gladstone Park,15.6km,15.6,North-west,640100.00
+161,Thomastown,15.6km,15.6,North,661500.00
+162,Yallambie,15.6km,15.6,North-east,821400.00
+163,Oakleigh East,15.7km,15.7,South-east,1024500.00
+164,Sandringham,15.7km,15.7,South,1955100.00
+165,Bundoora,15.8km,15.8,North-east,754900.00
+166,Dallas,15.9km,15.9,North,478400.00
+167,Mount Waverley,16.1km,16.1,East,1339000.00
+168,Cairnlea,16.2km,16.2,West,781500.00
+169,Templestowe,16.2km,16.2,East,1415100.00
+170,Blackburn South,16.3km,16.3,East,1112800.00
+171,Huntingdale,16.3km,16.3,South-east,980300.00
+172,St Albans,16.3km,16.3,West,667400.00
+173,St Albans East,16.3km,16.3,West,
+174,Lower Plenty,16.4km,16.4,North-east,1277000.00
+175,Tullamarine,16.4km,16.4,North-west,656100.00
+176,Highett,16.5km,16.5,South-east,1220400.00
+177,Keilor Downs,16.6km,16.6,North-west,677200.00
+178,Westmeadows,16.6km,16.6,North,637900.00
+179,Blackburn North,16.7km,16.7,East,1100600.00
+180,Blackburn,16.8km,16.8,East,1274400.00
+181,Watsonia North,16.8km,16.8,North-east,796800.00
+182,Derrimut,17km,17,West,661900.00
+183,Oakleigh South,17km,17,South-east,976000.00
+184,Burwood East,17.1km,17.1,East,1069500.00
+185,Lalor,17.2km,17.2,North,666200.00
+186,Deer Park,17.3km,17.3,West,593800.00
+187,Greensborough,17.3km,17.3,North-east,827300.00
+188,Altona Meadows,17.5km,17.5,West,669400.00
+189,Montmorency,17.6km,17.6,North-east,935600.00
+190,Attwood,17.7km,17.7,North-west,784500.00
+191,Cheltenham,17.8km,17.8,South-east,1036800.00
+192,Briar Hill,18km,18,North-east,855800.00
+193,Forest Hill,18km,18,East,1029600.00
+194,Black Rock,18.3km,18.3,South,1866700.00
+195,Coolaroo,18.3km,18.3,North,494400.00
+196,Mill Park,18.4km,18.4,North-east,675800.00
+197,Clayton,18.5km,18.5,South-east,1285800.00
+198,Clayton North,18.5km,18.5,South-east,
+199,Doncaster East,18.5km,18.5,East,1235700.00
+200,Albanvale,18.6km,18.6,West,554200.00
+201,Clarinda,18.7km,18.7,South-east,836600.00
+202,Laverton,18.7km,18.7,West,590000.00
+203,Meadow Heights,18.7km,18.7,North,512100.00
+204,Nunawading,18.7km,18.7,East,1037800.00
+205,Notting Hill,18.8km,18.8,East,1089600.00
+206,Truganina,18.9km,18.9,West,561200.00
+207,Epping,19.1km,19.1,North,622200.00
+208,Glen Waverley,19.2km,19.2,East,1386700.00
+209,Kings Park,19.4km,19.4,West,556900.00
+210,Seabrook,19.4km,19.4,West,646800.00
+211,Delahey,19.5km,19.5,North-west,587200.00
+212,Donvale,19.5km,19.5,East,1298500.00
+213,Burnside,19.7km,19.7,West,611400.00
+214,Keilor Lodge,19.7km,19.7,North-west,905000.00
+215,Eltham,19.8km,19.8,North-east,1061400.00
+216,Heatherton,19.8km,19.8,South-east,937200.00
+217,Roxburgh Park,19.9km,19.9,North,548000.00
+218,Vermont South,19.9km,19.9,East,1178300.00
+219,Clayton South,20km,20,South-east,842500.00
+220,Williams Landing,20km,20,West,691900.00
+221,Beaumaris,20.1km,20.1,South,1671900.00
+222,Taylors Lakes,20.1km,20.1,North-west,802700.00
+223,St Helena,20.2km,20.2,North-east,912600.00
+224,Mitcham,20.3km,20.3,East,1009700.00
+225,Sanctuary Lakes,20.3km,20.3,West,868800.00
+226,Burnside Heights,20.4km,20.4,West,656400.00
+227,Vermont,20.5km,20.5,East,978600.00
+228,Greenvale,20.7km,20.7,North,764600.00
+229,Mentone,20.8km,20.8,South-east,1139400.00
+230,Point Cook,20.8km,20.8,West,665700.00
+231,Taylors Hill,20.8km,20.8,North-west,727400.00
+232,Eltham North,21km,21,North-east,976300.00
+233,Plenty,21.3km,21.3,North-east,1490600.00
+234,South Morang,21.3km,21.3,North-east,636300.00
+235,Mulgrave,21.4km,21.4,South-east,908900.00
+236,Caroline Springs,21.6km,21.6,West,639600.00
+237,Sydenham,21.6km,21.6,North-west,578100.00
+238,Parkdale,22.2km,22.2,South-east,1213100.00
+239,Dingley Village,22.4km,22.4,South-east,901100.00
+240,Springvale,22.5km,22.5,South-east,833900.00
+241,Wheelers Hill,22.5km,22.5,East,1214000.00
+242,Park Orchards,22.7km,22.7,East,1735600.00
+243,Research,22.8km,22.8,North-east,1185900.00
+244,Diamond Creek,23.2km,23.2,North-east,811900.00
+245,Oaklands Junction,23.2km,23.2,North-west,1249900.00
+246,Ringwood,23.2km,23.2,East,971500.00
+247,Wantirna,23.7km,23.7,East,927400.00
+248,Tarneit,23.8km,23.8,West,567500.00
+249,Hillside,23.9km,23.9,North-west,688900.00
+250,Springvale South,23.9km,23.9,South-east,728000.00
+251,Bulla,24km,24,North-west,865400.00
+252,Craigieburn,24km,24,North,556000.00
+253,Mordialloc,24.1km,24.1,South-east,1007100.00
+254,Scoresby,24.1km,24.1,East,858100.00
+255,Ringwood North,24.2km,24.2,East,1001000.00
+256,Hoppers Crossing,24.3km,24.3,West,590400.00
+257,Warrandyte,24.4km,24.4,East,1441700.00
+258,North Warrandyte,24.5km,24.5,East,1174800.00
+259,Warrandyte South,24.6km,24.6,East,1881600.00
+260,Wantirna South,24.7km,24.7,East,1037600.00
+261,Yarrambat,24.7km,24.7,North-east,1358700.00
+262,Heathmont,24.8km,24.8,East,942300.00
+263,Ringwood East,25km,25,East,911600.00
+264,Noble Park,25.3km,25.3,South-east,666200.00
+265,Wollert,25.3km,25.3,North,570200.00
+266,Wattle Glen,25.4km,25.4,North-east,844300.00
+267,Noble Park North,25.5km,25.5,South-east,670000.00
+268,Warranwood,25.5km,25.5,East,990400.00
+269,Werribee South,25.9km,25.9,West,696300.00
+270,Kangaroo Ground,26km,26,East,1331000.00
+271,Yuroke,26.1km,26.1,North,
+272,Rowville,26.5km,26.5,East,888500.00
+273,Waterways,26.5km,26.5,South-east,1050100.00
+274,Aspendale,26.6km,26.6,South-east,1076000.00
+275,Knoxfield,26.8km,26.8,East,847300.00
+276,Bayswater,26.9km,26.9,East,806700.00
+277,Croydon South,26.9km,26.9,East,792600.00
+278,Aspendale Gardens,27km,27,South-east,939300.00
+279,Croydon Hills,27.1km,27.1,East,895000.00
+280,Dandenong North,27.2km,27.2,South-east,684200.00
+281,Mernda,27.3km,27.3,North-east,593900.00
+282,Keysborough,27.4km,27.4,South-east,882300.00
+283,Bayswater North,27.5km,27.5,East,710000.00
+284,Doreen,27.6km,27.6,North-east,652300.00
+285,Edithvale,27.9km,27.9,South-east,1013200.00
+286,Croydon,28km,28,East,802200.00
+287,Hurstbridge,28km,28,North-east,858500.00
+288,Wonga Park,28.3km,28.3,East,1217500.00
+289,Werribee,28.6km,28.6,West,538800.00
+290,Rockbank,28.8km,28.8,West,575700.00
+291,Boronia,29km,29,East,759200.00
+292,Mickleham,29.2km,29.2,North,545800.00
+293,Dandenong,29.3km,29.3,South-east,635300.00
+294,Croydon North,29.6km,29.6,East,826000.00
+295,Chelsea,29.7km,29.7,South-east,950000.00
+296,Diggers Rest,29.7km,29.7,North-west,513800.00
+297,Chelsea Heights,29.9km,29.9,South-east,795100.00
+298,Kilsyth South,29.9km,29.9,East,896400.00
+299,Nutfield,29.9km,29.9,North-east,
+300,Yan Yean,30.1km,30.1,North-east,870200.00
+301,Ferntree Gully,30.2km,30.2,East,745900.00
+302,Wildwood,30.4km,30.4,North-west,
+303,Lysterfield,30.5km,30.5,East,1187300.00
+304,Wyndham Vale,30.6km,30.6,West,499400.00
+305,Cottles Bridge,30.7km,30.7,North-east,941600.00
+305,Plumpton,30.3km,30.3,West,625900.00
+306,Kilsyth,30.7km,30.7,East,678000.00
+307,Mooroolbark,30.7km,30.7,East,733000.00
+308,Bonbeach,30.8km,30.8,South-east,898900.00
+309,Bangholme,30.9km,30.9,South-east,2141300.00
+310,Panton Hill,31.1km,31.1,North-east,1014300.00
+311,The Basin,31.3km,31.3,East,673200.00
+312,Endeavour Hills,31.5km,31.5,South-east,684700.00
+313,Doveton,31.6km,31.6,South-east,542500.00
+314,Mount Cottrell,31.6km,31.6,West,1808000.00
+315,Chirnside Park,31.7km,31.7,East,780200.00
+316,Kalkallo,31.7km,31.7,North,508200.00
+317,Upper Ferntree Gully,31.8km,31.8,East,727700.00
+318,Dandenong South,32.2km,32.2,South-east,3168300.00
+319,Carrum,32.4km,32.4,South-east,842900.00
+320,Lysterfield South,32.4km,32.4,East,1236100.00
+321,Patterson Lakes,32.4km,32.4,South-east,1073300.00
+322,Eumemmerring,32.5km,32.5,South-east,572500.00
+323,Tremont,33.1km,33.1,East,676000.00
+324,Montrose,33.4km,33.4,East,836300.00
+325,Sunbury,33.4km,33.4,North-west,587200.00
+326,Arthurs Creek,33.8km,33.8,North-east,1005600.00
+327,Smiths Gully,33.9km,33.9,North-east,857800.00
+328,Upwey,33.9km,33.9,East,745800.00
+329,Ferny Creek,34.2km,34.2,East,914000.00
+330,Hallam,34.6km,34.6,South-east,611000.00
+331,Mount Dandenong,34.8km,34.8,East,827000.00
+332,Sassafras,34.8km,34.8,East,900600.00
+333,Lilydale,34.9km,34.9,East,715100.00
+334,Eynesbury,35km,35,West,581400.00
+335,Tecoma,35km,35,East,684000.00
+336,Seaford,35.2km,35.2,South-east,727900.00
+337,Kalorama,35.4km,35.4,East,729800.00
+338,Olinda,35.6km,35.6,East,801600.00
+339,Sherbrooke,35.7km,35.7,East,885600.00
+340,St Andrews,35.8km,35.8,North-east,998600.00
+341,Belgrave,36km,36,East,698700.00
+342,Whittlesea,36km,36,North-east,594100.00
+343,Christmas Hills,36.1km,36.1,East,831600.00
+344,Hampton Park,36.1km,36.1,South-east,550100.00
+345,Narre Warren North,36.1km,36.1,East,1284900.00
+346,Kurunjang,36.2km,36.2,West,499200.00
+347,Lyndhurst,36.3km,36.3,South-east,706700.00
+348,Melton South,36.3km,36.3,West,437800.00
+349,Belgrave Heights,36.4km,36.4,East,709400.00
+350,Melton,36.5km,36.5,West,427300.00
+351,Eden Park,36.6km,36.6,North,1105000.00
+352,Kallista,36.6km,36.6,East,836600.00
+353,Sandhurst,36.7km,36.7,South-east,834500.00
+354,Mount Evelyn,36.8km,36.8,East,733800.00
+355,Lynbrook,36.9km,36.9,South-east,657800.00
+356,Belgrave South,37.3km,37.3,East,1005000.00
+357,Carrum Downs,37.4km,37.4,South-east,569500.00
+358,Selby,37.6km,37.6,East,741900.00
+359,Beveridge,37.9km,37.9,North,715400.00
+360,Coldstream,37.9km,37.9,East,670600.00
+361,Frankston North,38.1km,38.1,South-east,501100.00
+362,Melton West,38.2km,38.2,West,462900.00
+363,Narre Warren,38.3km,38.3,South-east,634700.00
+364,Narre Warren East,39km,39,East,1510000.00
+365,Brookfield,39.2km,39.2,West,500700.00
+366,Harkaway,39.2km,39.2,East,1226800.00
+367,Frankston,39.4km,39.4,South,645500.00
+368,Monbulk,39.4km,39.4,East,729200.00
+369,Narre Warren South,39.4km,39.4,South-east,683500.00
+370,The Patch,39.6km,39.6,East,776600.00
+371,Skye,39.9km,39.9,South-east,615900.00
+372,Wandin North,40km,40,East,748500.00
+373,Yarra Glen,40.1km,40.1,East,721300.00
+374,Silvan,40.2km,40.2,East,1061800.00
+375,Toolern Vale,40.2km,40.2,North-west,857000.00
+376,Menzies Creek,40.5km,40.5,East,828500.00
+377,Cranbourne North,40.6km,40.6,South-east,603700.00
+378,Berwick,41.2km,41.2,South-east,770200.00
+379,Cranbourne West,41.5km,41.5,South-east,552900.00
+380,Frankston South,41.7km,41.7,South,920800.00
+381,Humevale,41.9km,41.9,North-east,971600.00
+382,Strathewen,42.1km,42.1,North-east,
+383,Clematis,42.4km,42.4,East,626100.00
+384,Indented Head,42.4km,42.4,South-west,633800.00
+385,Mount Eliza,42.5km,42.5,South,1466000.00
+386,Cranbourne,42.6km,42.6,South-east,553200.00
+387,Langwarrin,42.6km,42.6,South-east,672900.00
+388,Gruyere,42.7km,42.7,East,1228300.00
+389,Hopetoun Park,43.1km,43.1,West,1135800.00
+390,Little River,43.2km,43.2,West,1215300.00
+390,Mt Eliza,42.5km,42.5,South,
+391,Portarlington,43.2km,43.2,South-west,662000.00
+392,Guys Hill,43.4km,43.4,East,1124300.00
+393,Cranbourne South,43.5km,43.5,South-east,1032600.00
+394,Steels Creek,43.7km,43.7,North-east,
+395,Wandin East,43.7km,43.7,East,845000.00
+396,Beaconsfield,43.8km,43.8,South-east,793000.00
+397,Emerald,44km,44,East,768800.00
+398,Seville,44km,44,East,805200.00
+399,Darraweit Guim,44.3km,44.3,North,
+400,Long Forest,44.4km,44.4,West,746200.00
+401,Gisborne South,44.5km,44.5,North-west,1139600.00
+402,Beaconsfield Upper,44.6km,44.6,East,1045900.00
+403,Parwan,44.7km,44.7,West,
+404,Wallan,44.7km,44.7,North,508600.00
+405,Botanic Ridge,44.8km,44.8,South-east,726400.00
+406,Kinglake West,44.8km,44.8,North-east,783600.00
+407,Cranbourne East,45.1km,45.1,South-east,580100.00
+408,St Leonards,45.2km,45.2,South-west,558600.00
+409,Mornington,45.5km,45.5,South,959100.00
+410,Baxter,45.7km,45.7,South-east,546600.00
+411,Macclesfield,45.8km,45.8,East,1073300.00
+412,Tarrawarra,45.8km,45.8,East,
+413,Avonsleigh,45.9km,45.9,East,737800.00
+414,Kinglake,45.9km,45.9,North-east,624800.00
+415,Merrimu,46.1km,46.1,West,
+416,Junction Village,46.3km,46.3,South-east,542200.00
+417,Kinglake Central,46.3km,46.3,North-east,400000.00
+418,Bolinda,46.5km,46.5,North-west,
+419,Pheasant Creek,46.5km,46.5,North-east,522100.00
+420,Clyde North,46.6km,46.6,South-east,589400.00
+421,Dixons Creek,46.6km,46.6,East,
+422,Riddells Creek,46.6km,46.6,North-west,752400.00
+423,Hidden Valley,46.7km,46.7,North,746000.00
+424,Langwarrin South,46.9km,46.9,South-east,1300300.00
+425,Seville East,47.1km,47.1,East,596200.00
+426,Moorooduc,47.3km,47.3,South,1303000.00
+427,Yellingbo,47.9km,47.9,East,611600.00
+428,Officer,48km,48,South-east,631000.00
+429,Clyde,48.3km,48.3,South-east,592200.00
+430,Cockatoo,48.4km,48.4,East,613700.00
+431,Heathcote Junction,48.4km,48.4,North,635500.00
+432,Bacchus Marsh,48.8km,48.8,West,487700.00
+433,Gisborne,48.9km,48.9,North-west,755600.00
+434,Darley,49km,49,West,519800.00
+435,Pearcedale,49.3km,49.3,South-east,741900.00
+436,Somerville,49.3km,49.3,South-east,699800.00
+437,Devon Meadows,49.8km,49.8,South-east,919600.00
+438,Maddingley,49.9km,49.9,West,456700.00
+439,Woori Yallock,50km,50,East,550200.00
+440,Nangana,50.5km,50.5,East,
+441,Mount Martha,50.6km,50.6,South,1147100.00
+442,New Gisborne,50.9km,50.9,North-west,726300.00
+443,Coimadai,51.1km,51.1,West,1165000.00
+444,Wandong,51.4km,51.4,North,675000.00
+445,Healesville,51.8km,51.8,East,651900.00
+446,Balliang,51.9km,51.9,West,781600.00
+447,Clifton Springs,52km,52,South-west,521400.00
+448,Chum Creek,52.1km,52.1,East,626400.00
+449,Drysdale,52.7km,52.7,South-west,553500.00
+450,Rowsley,52.7km,52.7,West,
+451,Pakenham Upper,53km,53,East,967800.00
+452,Launching Place,53.2km,53.2,East,578400.00
+453,Tyabb,53.6km,53.6,South-east,798500.00
+454,Bullengarook,53.7km,53.7,North-west,899000.00
+455,Gembrook,53.8km,53.8,East,756700.00
+456,Lara,54km,54,West,566700.00
+457,Cannons Creek,54.1km,54.1,South-east,712100.00
+458,Romsey,54.2km,54.2,North,622400.00
+459,Cardinia,54.7km,54.7,South-east,940600.00
+460,Tuerong,54.7km,54.7,South,1367300.00
+461,Warneet,54.7km,54.7,South-east,519500.00
+462,Clonbinane,55km,55,North,551600.00
+463,Pakenham,55km,55,East,528300.00
+464,Blind Bight,55.2km,55.2,South-east,537200.00
+465,Macedon,55.5km,55.5,North-west,827700.00
+466,Mannerim,55.7km,55.7,South-west,
+467,Hoddles Creek,55.8km,55.8,East,785200.00
+468,Safety Beach,55.8km,55.8,South,860900.00
+469,Mount Macedon,56.8km,56.8,North-west,897500.00
+470,Nar Nar Goon North,56.9km,56.9,East,978300.00
+471,Queenscliff,56.9km,56.9,South-west,899000.00
+472,Curlewis,57.1km,57.1,South-west,482200.00
+473,Tooradin,57.3km,57.3,South-east,586500.00
+474,Yarra Junction,57.3km,57.3,East,553500.00
+475,Kilmore,57.7km,57.7,North,480300.00
+476,Dromana,57.8km,57.8,South,783200.00
+477,Dalmore,58.4km,58.4,South-east,
+478,Hastings,58.4km,58.4,South,546600.00
+479,Wallington,59.1km,59.1,South-west,1287500.00
+480,McCrae,59.5km,59.5,South,906400.00
+481,Wesburn,60km,60,East,540400.00
+482,Arthurs Seat,60.1km,60.1,South,1236000.00
+483,Corio,60.4km,60.4,West,373800.00
+484,Leopold,60.4km,60.4,South-west,526100.00
+485,Rosebud,60.4km,60.4,South,646200.00
+486,Rosebud South,60.4km,60.4,South,
+487,North Shore,60.8km,60.8,West,621000.00
+488,Point Lonsdale,60.8km,60.8,South-west,959900.00
+489,Gladysdale,61km,61,East,859600.00
+490,Merricks North,61km,61,South,1266200.00
+491,Millgrove,61km,61,East,425500.00
+492,Nar Nar Goon,61km,61,East,674200.00
+493,Myrniong,61.2km,61.2,West,516200.00
+494,Maryknoll,61.3km,61.3,East,828700.00
+495,Portsea,61.3km,61.3,South,2362700.00
+496,Bittern,61.4km,61.4,South,770200.00
+497,Sorrento,61.5km,61.5,South,1502900.00
+498,Norlane,61.7km,61.7,West,366200.00
+499,Rosebud West,61.7km,61.7,South,558500.00
+500,Red Hill,62km,62,South,1510800.00
+501,Moolap,62.1km,62.1,South-west,800000.00
+502,Ingliston,62.3km,62.3,West,
+503,Flowerdale,62.4km,62.4,North-east,346500.00
+504,Glenburn,62.8km,62.8,North-east,825000.00
+505,Blairgowrie,62.9km,62.9,South,1070700.00
+506,Tynong North,62.9km,62.9,East,992700.00
+507,Anakie,63km,63,West,834100.00
+508,Tootgarook,63km,63,South,686400.00
+509,Koo Wee Rup,63.1km,63.1,South-east,539700.00
+510,Rye,63.1km,63.1,South,758900.00
+511,Lancefield,63.2km,63.2,North,537000.00
+512,North Geelong,63.2km,63.2,West,524700.00
+513,Ocean Grove,63.5km,63.5,South-west,735900.00
+514,Red Hill South,63.5km,63.5,South,1259100.00
+515,Rippleside,63.7km,63.7,South-west,709700.00
+516,Lovely Banks,63.8km,63.8,West,563100.00
+517,Woodend,63.8km,63.8,North-west,760400.00
+518,Balnarring,63.9km,63.9,South,953300.00
+519,Drumcondra,64km,64,South-west,766500.00
+520,Newcomb,64.1km,64.1,South-west,451600.00
+521,Warburton,64.2km,64.2,East,504000.00
+522,East Geelong,64.3km,64.3,South-west,644600.00
+523,Greendale,64.3km,64.3,West,764100.00
+524,Bell Post Hill,64.4km,64.4,West,474700.00
+525,Geelong,64.6km,64.6,South-west,808400.00
+526,Thomson,64.6km,64.6,South-west,423600.00
+527,Whittington,64.6km,64.6,South-west,374500.00
+528,Bell Park,64.7km,64.7,West,468000.00
+529,Newham,64.7km,64.7,North-west,761600.00
+530,Crib Point,64.9km,64.9,South,555000.00
+531,Boneo,65.2km,65.2,South,1848300.00
+532,Geelong West,65.2km,65.2,South-west,734800.00
+533,Main Ridge,65.3km,65.3,South,1636600.00
+534,Merricks,65.3km,65.3,South,2253300.00
+535,Hamlyn Heights,65.4km,65.4,West,551000.00
+536,Balnarring Beach,65.5km,65.5,South,1580900.00
+537,Beremboke,65.8km,65.8,West,581600.00
+538,Newtown,65.8km,65.8,South-west,814600.00
+539,St Albans Park,65.8km,65.8,South-west,486200.00
+540,Moorabool,66km,66,West,
+540,Tynong,65.3km,65.3,East,599100.00
+541,South Geelong,66km,66,South-west,765700.00
+542,Breakwater,66.2km,66.2,South-west,407000.00
+543,Mount Wallace,66.2km,66.2,West,
+544,Dales Creek,66.3km,66.3,West,487000.00
+545,Manifold Heights,66.3km,66.3,South-west,786600.00
+546,Barwon Heads,66.4km,66.4,South-west,1021200.00
+547,Merricks Beach,66.4km,66.4,South,883000.00
+548,Herne Hill,66.8km,66.8,West,524600.00
+549,Somers,66.9km,66.9,South,1070700.00
+550,Narbethong,67.1km,67.1,East,505600.00
+551,Bayles,67.2km,67.2,South-east,989600.00
+552,Cora Lynn,67.4km,67.4,South-east,556200.00
+553,French Island,67.4km,67.4,South-east,1073300.00
+554,Batesford,67.7km,67.7,West,996400.00
+555,Belmont,67.7km,67.7,South-west,540100.00
+556,Marshall,67.8km,67.8,South-west,470500.00
+557,St Andrews Beach,68km,68,South,981000.00
+558,Fyansford,68.1km,68.1,South-west,810200.00
+559,Strath Creek,68.2km,68.2,North,870000.00
+560,Broadford,68.5km,68.5,North,421400.00
+561,Fingal,68.7km,68.7,South,1352500.00
+562,Shoreham,68.7km,68.7,South,2061800.00
+563,Highton,69.1km,69.1,South-west,670700.00
+564,Ballan,69.2km,69.2,West,513300.00
+565,Blackwood,69.3km,69.3,North-west,365900.00
+566,Trentham East,69.3km,69.3,North-west,808300.00
+567,East Warburton,68.5km,68.5,East,475900.00
+567,Garfield,69.9km,69.9,East,578700.00
+568,Connewarre,70.1km,70.1,South-west,1106200.00
+569,Wandana Heights,70.1km,70.1,South-west,641800.00
+570,Caldermeade,70.6km,70.6,South-east,
+571,Grovedale,70.7km,70.7,South-west,494300.00
+572,Vervale,71.3km,71.3,East,
+573,Barrys Reef,71.5km,71.5,North-west,334000.00
+574,Iona,72.5km,72.5,East,
+575,Cape Schanck,72.7km,72.7,South,1092400.00
+576,Murrindindi,72.7km,72.7,North-east,
+577,Lang Lang,72.8km,72.8,South-east,460600.00
+578,Mount Duneed,73.1km,73.1,South-west,553300.00
+579,Bunyip,73.2km,73.2,East,669600.00
+580,Ceres,73.5km,73.5,South-west,1550000.00
+581,She Oaks,73.5km,73.5,West,
+582,Trentham,73.5km,73.5,North-west,755500.00
+583,Flinders,73.6km,73.6,South,2368900.00
+584,Pipers Creek,73.7km,73.7,North-west,882500.00
+585,Waurn Ponds,73.8km,73.8,South-west,617700.00
+586,Bannockburn,74.2km,74.2,West,546100.00
+587,Newbury,74.5km,74.5,North-west,
+587,Tylden,73.2km,73.2,North-west,511700.00
+588,Ventnor,74.5km,74.5,South,556300.00
+589,Lethbridge,74.7km,74.7,West,699600.00
+590,Cowes,74.8km,74.8,South,511200.00
+591,Jam Jerrup,74.9km,74.9,South-east,
+592,Silverleaves,76km,76,South,932700.00
+593,Marysville,76.9km,76.9,East,441500.00
+594,Kyneton,77.4km,77.4,North-west,637400.00
+595,Modella,77.5km,77.5,South-east,
+596,Meredith,78km,78,West,381600.00
+597,Rhyll,78km,78,South-east,554600.00
+598,Wimbledon Heights,78.1km,78.1,South,372400.00
+599,Longwarry,78.3km,78.3,East,453500.00
+600,Corinella,78.4km,78.4,South-east,356700.00
+601,Lyonville,78.4km,78.4,North-west,676800.00
+602,Yea,78.4km,78.4,North-east,463900.00
+603,Buxton,78.9km,78.9,North-east,540000.00
+604,Pyalong,77.6km,77.6,North,502500.00
+604,Trawool,79.9km,79.9,North,
+605,Gordon,80km,80,West,561000.00
+606,Freshwater Creek,80.2km,80.2,South-west,1051600.00
+607,Tenby Point,80.2km,80.2,South-east,389200.00
+608,Coronet Bay,80.3km,80.3,South-east,349000.00
+609,Bullarto,80.4km,80.4,North-west,519700.00
+609,Mount Egerton,78.3km,78.3,West,445400.00
+610,Labertouche,80.4km,80.4,East,
+611,Smiths Beach,80.4km,80.4,South,610000.00
+612,Sunset Strip,80.4km,80.4,South,346400.00
+613,Torquay,80.4km,80.4,South-west,864700.00
+614,Heath Hill,80.6km,80.6,South-east,
+615,Tallarook,81.1km,81.1,North,507500.00
+616,The Gurdies,81.4km,81.4,South-east,404800.00
+617,Pioneer Bay,81.5km,81.5,South-east,304500.00
+618,Sunderland Bay,81.7km,81.7,South,548200.00
+619,Lal Lal,82.3km,82.3,West,585600.00
+620,Jan Juc,82.6km,82.6,South-west,950800.00
+621,Grantville,82.8km,82.8,South-east,402800.00
+622,Lauriston,82.8km,82.8,North-west,782600.00
+623,Surf Beach,82.8km,82.8,South,527800.00
+624,Korweinguboora,83.4km,83.4,West,696600.00
+625,Moriac,83.4km,83.4,South-west,765500.00
+626,Teesdale,83.8km,83.8,West,600900.00
+627,Bellbrae,84km,84,South-west,891600.00
+628,Nyora,84.9km,84.9,South-east,486300.00
+629,Drummond,85.1km,85.1,North-west,445000.00
+630,Elaine,82.4km,82.4,West,399300.00
+630,Newhaven,85.3km,85.3,South-east,663200.00
+631,Inverleigh,85.6km,85.6,West,573300.00
+632,Wallace,85.6km,85.6,West,
+633,Glenlyon,85.8km,85.8,North-west,580200.00
+634,Bass,86.4km,86.4,South-east,546300.00
+635,Drouin,86.4km,86.4,East,485500.00
+636,San Remo,86.4km,86.4,South-east,641000.00
+637,Malmsbury,86.5km,86.5,North-west,507800.00
+638,Coomoora,87.1km,87.1,North-west,477200.00
+639,Cape Woolamai,87.6km,87.6,South-east,520400.00
+640,Glen Forbes,87.7km,87.7,South-east,
+641,Kernot,88km,88,South-east,579000.00
+642,Seymour,89.1km,89.1,North,325400.00
+643,Daylesford,89.4km,89.4,North-west,612100.00
+644,Shelford,89.5km,89.5,West,456000.00
+644,Wheatsheaf,85.6km,85.6,North-west,506000.00
+645,Bungaree,89.7km,89.7,West,497500.00
+646,Loch,89.7km,89.7,South-east,533500.00
+647,Mollongghip,89.8km,89.8,West,490000.00
+648,Yendon,89.8km,89.8,West,504500.00
+649,Neerim South,89.9km,89.9,East,503800.00
+650,Eganstown,90.2km,90.2,North-west,495500.00
+650,Tooborac,86.9km,86.9,North,329500.00
+651,Noojee,91.4km,91.4,East,313200.00
+652,Hepburn Springs,91.6km,91.6,North-west,564800.00
+653,Navigators,91.6km,91.6,West,680000.00
+654,Poowong,91.6km,91.6,South-east,391200.00
+655,Kilcunda,93.3km,93.3,South-east,556000.00
+656,Warragul,93.4km,93.4,East,517800.00
+657,Anglesea,94.5km,94.5,South-west,913900.00
+658,Blampied,94.6km,94.6,North-west,521300.00
+659,Warrenheip,95.2km,95.2,West,481200.00
+660,Garibaldi,95.6km,95.6,West,465000.00
+661,Gherang,95.6km,95.6,South-west,703100.00
+662,Alexandra,95.8km,95.8,North-east,375200.00
+663,Redesdale,96.1km,96.1,North-west,516500.00
+664,Buln Buln,91km,91,East,654200.00
+664,Durham Lead,96.4km,96.4,West,513300.00
+665,Buninyong,96.7km,96.7,West,536700.00
+666,Glen Alvie,96.7km,96.7,South-east,
+667,Mount Helen,97.6km,97.6,West,424900.00
+668,Dalyston,97.8km,97.8,South-east,298100.00
+669,Brown Hill,97.9km,97.9,West,396600.00
+669,Taradale,92.8km,92.8,North-west,546400.00
+670,Winchelsea,97.9km,97.9,West,453200.00
+671,Canadian,98.3km,98.3,West,364000.00
+672,Ballarat East,98.8km,98.8,West,347200.00
+673,Mount Clear,99.2km,99.2,West,376100.00
+674,Nerrina,99.4km,99.4,West,587200.00
+675,Invermay,99.5km,99.5,West,906200.00
+676,Icy Creek,99.9km,99.9,East,
+680,Thornton,96.4km,96.4,North-east,245000.00
+681,Bena,96.6km,96.6,South-east,514600.00
+684,Elphinstone,97km,97,North-west,561700.00
+690,Yarck,98.3km,98.3,North-east,616600.00
+696,Wensleydale,100.1km,100.1,South-west,
+697,Darnum,100.2km,100.2,East,353300.00
+698,Black Hill,100.3km,100.3,West,434400.00
+699,Bakery Hill,100.6km,100.6,West,374000.00
+700,Magpie,100.7km,100.7,West,590000.00
+701,Napoleons,101km,101,West,543300.00
+702,Mount Pleasant,101.2km,101.2,West,355700.00
+703,Soldiers Hill,101.5km,101.5,West,445300.00
+704,Sebastopol,101.7km,101.7,West,277100.00
+705,Ballarat North,101.8km,101.8,West,432000.00
+706,Heathcote,101.8km,101.8,North,355000.00
+707,Invermay Park,102km,102,West,416000.00
+708,Korumburra,102km,102,South-east,342900.00
+709,Ballarat,102.2km,102.2,West,449000.00
+710,Ballarat Central,102.2km,102.2,West,466700.00
+711,Yandoit,102.2km,102.2,North-west,613300.00
+712,Redan,102.5km,102.5,West,336700.00
+713,Golden Point,102.7km,102.7,North-west,357700.00
+714,Lake Wendouree,102.8km,102.8,West,696600.00
+715,Allendale,103.1km,103.1,West,
+716,Newington,103.3km,103.3,West,495200.00
+717,Aireys Inlet,103.6km,103.6,South-west,957000.00
+718,Creswick,103.7km,103.7,West,388600.00
+719,Wonthaggi,103.8km,103.8,South-east,350100.00
+720,Chewton,104km,104,North-west,538100.00
+721,Yapeen,104.2km,104.2,North-west,466300.00
+722,Wendouree,104.3km,104.3,West,304500.00
+723,Mount Rowan,104.4km,104.4,West,645000.00
+724,Campbells Creek,104.5km,104.5,North-west,508000.00
+725,Kardella,104.5km,104.5,South-east,
+726,Alfredton,104.9km,104.9,West,431600.00
+727,Delacombe,104.9km,104.9,West,359900.00
+728,Enfield,104.9km,104.9,West,414100.00
+729,Lake Gardens,105km,105,West,534200.00
+730,Sulky,105.1km,105.1,West,778700.00
+731,Avenel,105.3km,105.3,North,400000.00
+732,Eildon,105.5km,105.5,North-east,298400.00
+733,Taylor Bay,105.5km,105.5,North-east,797500.00
+734,Yarragon,105.8km,105.8,East,380500.00
+735,Fairhaven,106.2km,106.2,South-west,1274900.00
+736,Castlemaine,106.4km,106.4,North-west,543600.00
+737,Dereel,106.7km,106.7,West,298400.00
+738,Ross Creek,107.3km,107.3,West,491900.00
+739,Smythes Creek,108km,108,West,584800.00
+740,Miners Rest,108.7km,108.7,West,391100.00
+741,Mitchell Park,109.3km,109.3,West,329800.00
+742,Rokewood,109.8km,109.8,West,299100.00
+743,Harcourt,110km,110,North-west,449800.00
+744,Willow Grove,110.5km,110.5,East,352000.00
+745,Cape Paterson,111.4km,111.4,South-east,433600.00
+746,Cardigan,111.8km,111.8,West,713300.00
+747,Cardigan Village,111.8km,111.8,West,421500.00
+748,Newstead,112km,112,North-west,446200.00
+749,Haddon,112.3km,112.3,West,506000.00
+750,Inverloch,113.1km,113.1,South-east,606500.00
+751,Leongatha,113.3km,113.3,South-east,379100.00
+752,Trafalgar,113.4km,113.4,East,380800.00
+753,Smythesdale,114.2km,114.2,West,384100.00
+754,Merton,114.3km,114.3,North-east,
+755,Deans Marsh,114.5km,114.5,South-west,627600.00
+756,Nagambie,115.7km,115.7,North,333900.00
+757,Scarsdale,116.3km,116.3,West,347400.00
+758,Kevington,117.4km,117.4,East,
+759,Bonnie Doon,118.2km,118.2,North-east,348300.00
+760,Jamieson,118.2km,118.2,East,298800.00
+761,Lorne,118.5km,118.5,South-west,1163400.00
+762,Koonwarra,118.6km,118.6,South-east,537000.00
+763,Learmonth,118.6km,118.6,West,384500.00
+764,Birregurra,118.7km,118.7,West,504500.00
+765,Clunes,118.8km,118.8,West,374300.00
+766,Thorpdale,118.8km,118.8,East,363300.00
+767,Cressy,119.2km,119.2,West,195900.00
+768,Longwood,119.8km,119.8,North,206600.00
+769,Goughs Bay,120.3km,120.3,North-east,333600.00
+770,Maldon,120.6km,120.6,North-west,465900.00
+771,Moe,121.2km,121.2,East,191800.00
+772,Burrumbeet,121.3km,121.3,West,
+773,Ravenswood,121.8km,121.8,North-west,448300.00
+774,Howqua Inlet,122.3km,122.3,North-east,325000.00
+775,Maindample,122.8km,122.8,North-east,299000.00
+776,Newborough,123.3km,123.3,East,246500.00
+777,Addington,123.5km,123.5,West,
+778,Beeac,123.5km,123.5,West,339300.00
+779,Snake Valley,123.5km,123.5,West,313300.00
+780,Macs Cove,123.6km,123.6,North-east,246600.00
+781,Mirboo North,123.6km,123.6,East,290500.00
+782,Linton,124.1km,124.1,West,314500.00
+783,Venus Bay,124.4km,124.4,South-east,311900.00
+784,Erica,125km,125,East,222800.00
+785,Meeniyan,125.2km,125.2,South-east,289600.00
+786,Strathfieldsaye,125.3km,125.3,North-west,474600.00
+787,Mandurang,125.4km,125.4,North-west,739000.00
+788,Tarwin Lower,126.6km,126.6,South-east,369400.00
+789,Waubra,127.2km,127.2,West,385100.00
+790,Howqua,127.5km,127.5,East,
+791,Junortoun,127.9km,127.9,North-west,551500.00
+792,Barwon Downs,128.2km,128.2,South-west,
+793,Spring Gully,128.5km,128.5,North-west,463900.00
+794,Yallourn North,129.2km,129.2,East,211900.00
+795,Euroa,129.5km,129.5,North-east,290900.00
+796,Flora Hill,129.5km,129.5,North-west,343200.00
+797,Kangaroo Flat,129.9km,129.9,North-west,318600.00
+798,Lockwood South,130km,130,North-west,482000.00
+799,Quarry Hill,130.2km,130.2,North-west,422200.00
+800,Strathdale,130.2km,130.2,North-west,482100.00
+801,Mansfield,130.7km,130.7,North-east,442800.00
+802,Kennington,131km,131,North-west,407200.00
+803,Wye River,131km,131,South-west,618200.00
+804,Golden Square,131.3km,131.3,North-west,349500.00
+805,Mirboo,131.3km,131.3,South-east,
+806,Boolarra,131.6km,131.6,East,333500.00
+807,Bendigo,132.3km,132.3,North-west,470600.00
+808,East Bendigo,132.3km,132.3,North-west,330700.00
+809,Yinnar,132.3km,132.3,East,325700.00
+810,Buffalo,132.4km,132.4,South-east,
+811,Carisbrook,132.4km,132.4,North-west,233200.00
+812,Talbot,132.7km,132.7,North-west,291500.00
+813,White Hills,134km,134,North-west,323400.00
+814,Forrest,134.1km,134.1,South-west,289000.00
+815,Barjarg,134.4km,134.4,North-east,
+816,Colac,134.4km,134.4,West,306500.00
+817,Morwell,134.4km,134.4,East,184100.00
+818,North Bendigo,134.7km,134.7,North-west,322200.00
+819,Ascot,134.8km,134.8,North-west,436300.00
+820,Long Gully,134.8km,134.8,North-west,247100.00
+821,Murchison,135km,135,North,225900.00
+822,Elliminyt,135.3km,135.3,West,390500.00
+823,California Gully,135.7km,135.7,North-west,270300.00
+824,Maiden Gully,135.9km,135.9,North-west,488200.00
+825,Epsom,136.1km,136.1,North-west,341200.00
+826,Amherst,136.3km,136.3,North-west,
+827,Barongarook,136.6km,136.6,West,408000.00
+828,Cororooke,136.8km,136.8,West,260800.00
+829,Rushworth,137km,137,North,260600.00
+830,Eaglehawk,137.3km,137.3,North-west,296500.00
+831,Yinnar South,137.3km,137.3,East,503300.00
+832,Maryborough,138km,138,North-west,254100.00
+833,Tyers,138.2km,138.2,East,372100.00
+834,Trawalla,138.3km,138.3,West,
+835,Fish Creek,138.4km,138.4,South-east,505000.00
+836,Bridge Creek,138.7km,138.7,North-east,
+837,Churchill,139.2km,139.2,East,220100.00
+838,Goornong,139.5km,139.5,North,360700.00
+839,Huntly,139.5km,139.5,North-west,372200.00
+840,Jeeralang Junction,139.6km,139.6,East,410000.00
+841,Marong,140.7km,140.7,North-west,379400.00
+842,Skipton,141.4km,141.4,West,163500.00
+843,Hazelwood North,142.4km,142.4,East,633800.00
+844,Foster,143km,143,South-east,329400.00
+845,Lismore,143.1km,143.1,West,165900.00
+846,Jumbuk,143.9km,143.9,East,
+847,Waratah North,144.2km,144.2,South-east,
+848,Traralgon,144.5km,144.5,East,322300.00
+849,Glengarry,144.7km,144.7,East,388200.00
+850,Walkerville,144.7km,144.7,South-east,326600.00
+851,Beaufort,145.7km,145.7,West,260800.00
+852,Sawmill Settlement,146.2km,146.2,North-east,258300.00
+853,Violet Town,147.1km,147.1,North-east,261900.00
+854,Gellibrand,147.5km,147.5,West,261700.00
+855,Toongabbie,148.3km,148.3,East,354200.00
+856,Traralgon South,148.4km,148.4,East,416900.00
+857,Skenes Creek,149.1km,149.1,South-west,612700.00
+858,Port Franklin,150km,150,South-east,261600.00
+859,Elmore,150.1km,150.1,North,232700.00
+860,Swanpool,150.5km,150.5,North-east,
+861,Sandy Point,150.7km,150.7,South-east,481400.00
+862,Mount Buller,150.9km,150.9,East,
+863,Toolamba,151.1km,151.1,North,384000.00
+864,Newbridge,151.6km,151.6,North-west,194200.00
+865,Toora,152.2km,152.2,South-east,251700.00
+866,Stanhope,152.3km,152.3,North,197900.00
+867,Beech Forest,152.4km,152.4,South-west,353300.00
+868,Dunolly,152.5km,152.5,North-west,216100.00
+869,Apollo Bay,153.5km,153.5,South-west,656100.00
+870,Derrinallum,153.6km,153.6,West,147600.00
+871,Cowwarr,153.8km,153.8,East,320000.00
+872,Avoca,154.4km,154.4,West,227800.00
+873,Tolmie,154.4km,154.4,North-east,386100.00
+874,Amphitheatre,154.8km,154.8,West,176500.00
+875,Tatura,154.8km,154.8,North,267300.00
+876,Marengo,156.1km,156.1,South-west,675700.00
+877,Girgarre,157.6km,157.6,North,102500.00
+878,Welshpool,160km,160,South-east,266600.00
+879,Coongulla,160.3km,160.3,East,268300.00
+880,Kialla,160.6km,160.6,North,409200.00
+881,Heyfield,161.1km,161.1,East,177000.00
+882,Merrigum,161.3km,161.3,North,221400.00
+883,Gormandale,161.5km,161.5,East,493300.00
+884,Mooroopna,161.9km,161.9,North,247300.00
+885,Bridgewater On Loddon,162.7km,162.7,North-west,205400.00
+886,Rochester,163.4km,163.4,North,297000.00
+887,Port Welshpool,164.2km,164.2,South-east,267000.00
+888,Shepparton,164.2km,164.2,North,287300.00
+889,Rosedale,164.7km,164.7,East,272600.00
+890,Buangor,165.6km,165.6,West,
+891,Camperdown,165.9km,165.9,West,232200.00
+892,Benalla,167.1km,167.1,North-east,301700.00
+893,Elmhurst,167.2km,167.2,West,179400.00
+894,Kyabram,167.8km,167.8,North,293700.00
+895,Lavers Hill,167.9km,167.9,South-west,261600.00
+896,Inglewood,168.7km,168.7,North-west,172500.00
+897,Darlington,169.2km,169.2,West,
+898,Bealiba,169.4km,169.4,North-west,181000.00
+899,Newry,169.8km,169.8,East,236600.00
+900,Yarram,171.4km,171.4,East,256200.00
+901,Moonambel,171.9km,171.9,North-west,236600.00
+902,Congupna,173.3km,173.3,North,399000.00
+903,Tongala,174.1km,174.1,North,267300.00
+904,Cobden,174.9km,174.9,West,192100.00
+905,Lockington,175.8km,175.8,North,161000.00
+906,Koyuga,177.3km,177.3,North,
+907,Goorambat,177.5km,177.5,North-east,182800.00
+908,Maffra,177.6km,177.6,East,295800.00
+909,Port Albert,178.8km,178.8,East,243000.00
+910,Scotts Creek,182.5km,182.5,West,
+911,Echuca West,183.5km,183.5,North,533300.00
+912,Noorat,183.5km,183.5,West,
+913,Woodside,185km,185,East,
+914,Landsborough,185.1km,185.1,West,204000.00
+915,Briagolong,185.5km,185.5,East,347300.00
+916,Terang,185.5km,185.5,West,195700.00
+917,Stratford,186.7km,186.7,East,312300.00
+918,Glenrowan,187.3km,187.3,North-east,285500.00
+919,Sale,187.7km,187.7,East,314100.00
+920,Echuca,188.6km,188.6,North,410600.00
+921,Timboon,188.9km,188.9,West,231000.00
+922,Ararat,189km,189,West,226600.00
+923,Wunghnu,189.4km,189.4,North,165000.00
+924,Invergordon,190km,190,North,190300.00
+925,Longford,190.2km,190.2,East,466800.00
+926,Mortlake,191.7km,191.7,West,218300.00
+927,Port Campbell,193.7km,193.7,West,434000.00
+928,Wedderburn,196.1km,196.1,North-west,187400.00
+929,Numurkah,196.2km,196.2,North,224000.00
+930,Nathalia,196.9km,196.9,North,231000.00
+931,Oxley,197.9km,197.9,North-east,384600.00
+932,Willaura,198km,198,West,123200.00
+933,Waaia,198.7km,198.7,North,326600.00
+934,Barmah,200km,200,North,138300.00
+935,Great Western,200.3km,200.3,West,316500.00
+936,Tungamah,200.9km,200.9,North-east,171100.00
+937,St Arnaud,201.7km,201.7,North-west,165000.00
+938,Wangaratta,202.6km,202.6,North-east,347100.00
+939,Peterborough,202.8km,202.8,West,411200.00
+940,Katamatite,203.7km,203.7,North,125000.00
+941,Seaspray,205km,205,East,252400.00
+942,Whorouly,205km,205,North-east,310800.00
+943,Katunga,206.9km,206.9,North,322300.00
+944,Myrtleford,209.5km,209.5,North-east,280200.00
+945,Ovens,209.8km,209.8,North-east,246300.00
+946,Pyramid Hill,209.9km,209.9,North,108300.00
+947,Stawell,210.7km,210.7,West,212000.00
+948,Mount Hotham,212.5km,212.5,East,335000.00
+949,Porepunkah,212.5km,212.5,North-east,504400.00
+950,Wandiligong,213.1km,213.1,North-east,400500.00
+951,Gunbower,213.5km,213.5,North,177200.00
+952,Glenthompson,213.7km,213.7,West,128300.00
+953,Bright,214.2km,214.2,North-east,528900.00
+954,Strathmerton,215.2km,215.2,North,201700.00
+955,Caramut,215.3km,215.3,West,
+956,Allansford,217.3km,217.3,West,289000.00
+957,Eldorado,217.3km,217.3,North-east,282000.00
+958,Golden Beach,218.3km,218.3,East,200400.00
+959,Boort,218.6km,218.6,North-west,171200.00
+960,Pomonal,219.1km,219.1,West,379000.00
+961,Paradise Beach,219.4km,219.4,East,230100.00
+962,Lindenow,219.5km,219.5,East,326600.00
+963,Dinner Plain,219.6km,219.6,East,456600.00
+964,Cobram,219.9km,219.9,North,280800.00
+965,Yarrawonga,220.3km,220.3,North-east,374100.00
+966,Leitchville,220.6km,220.6,North,120000.00
+967,Merrijig,221.4km,221.4,East,551500.00
+968,Bushfield,221.5km,221.5,West,530700.00
+969,Beechworth,222.8km,222.8,North-east,440600.00
+970,Charlton,223.8km,223.8,North-west,182000.00
+971,Marnoo,225km,225,North-west,
+972,Bundalong,225.4km,225.4,North-east,342700.00
+973,Warrnambool,226.3km,226.3,West,361000.00
+974,Glenorchy,227.8km,227.8,West,
+975,Halls Gap,228.5km,228.5,West,328000.00
+976,Mount Beauty,229.3km,229.3,East,290300.00
+977,Tawonga South,229.3km,229.3,East,362300.00
+978,Tawonga,230.2km,230.2,North-east,449000.00
+979,Loch Sport,230.3km,230.3,East,230900.00
+980,Falls Creek,230.9km,230.9,East,
+981,Cobungra,231.5km,231.5,East,
+982,Dunkeld,231.5km,231.5,West,215600.00
+983,Cohuna,232.7km,232.7,North,214200.00
+984,Koroit,233.7km,233.7,West,367700.00
+985,Hawkesdale,234.1km,234.1,West,
+986,Bairnsdale,234.4km,234.4,East,302000.00
+987,Eastwood,234.6km,234.6,East,424200.00
+988,Wy Yung,234.7km,234.7,East,389600.00
+989,Penshurst,235km,235,West,144100.00
+990,East Bairnsdale,235.9km,235.9,East,214100.00
+991,Chiltern,236km,236,North-east,280300.00
+992,Yackandandah,236.1km,236.1,North-east,546700.00
+993,Rutherglen,236.9km,236.9,North-east,334000.00
+994,Wahgunyah,237.6km,237.6,North-east,319800.00
+995,Donald,238.2km,238.2,North-west,174300.00
+996,Killarney,239.6km,239.6,West,
+997,Eagle Point,240.3km,240.3,East,296800.00
+998,Newlands Arm,240.6km,240.6,East,323500.00
+999,Paynesville,242.6km,242.6,East,368300.00
+1000,Raymond Island,243.3km,243.3,East,301200.00
+1001,Barnawartha,243.6km,243.6,North-east,300300.00
+1002,Nicholson,244km,244,East,313000.00
+1003,Rosebrook,244.6km,244.6,West,
+1004,Rupanyup,245.1km,245.1,North-west,80600.00
+1005,Omeo,245.7km,245.7,East,241100.00
+1006,Port Fairy,247.2km,247.2,West,641900.00
+1007,Wycheproof,247.6km,247.6,North-west,148400.00
+1008,Regent,248km,248,West,
+1009,Kerang,249.5km,249.5,North-west,176700.00
+1010,Swifts Creek,250.7km,250.7,East,163300.00
+1011,Tarrington,252.1km,252.1,West,295600.00
+1012,Eskdale,252.6km,252.6,North-east,283600.00
+1013,West Wodonga,252.6km,252.6,North-east,340400.00
+1014,Baranduda,252.8km,252.8,North-east,441900.00
+1015,Bruthen,252.8km,252.8,East,290300.00
+1016,Koondrook,252.8km,252.8,North,254600.00
+1017,Tangambalanga,252.8km,252.8,North-east,293800.00
+1018,Metung,253.9km,253.9,East,370800.00
+1019,Quambatook,253.9km,253.9,North-west,117300.00
+1020,Wodonga,254.2km,254.2,North-east,349500.00
+1021,Swan Reach,254.5km,254.5,East,421100.00
+1022,Huon,257.7km,257.7,North-east,
+1023,Murtoa,257.9km,257.9,West,89000.00
+1024,Ensay,258.1km,258.1,East,136600.00
+1025,Hamilton,259.1km,259.1,West,233100.00
+1026,Minyip,259.2km,259.2,North-west,95600.00
+1027,Benambra,260.5km,260.5,East,
+1028,Macarthur,261.3km,261.3,West,121600.00
+1029,Kalimna,263.7km,263.7,East,325400.00
+1030,Tallangatta,264.5km,264.5,North-east,255700.00
+1031,Lakes Entrance,265.5km,265.5,East,348400.00
+1032,Bessiebelle,265.6km,265.6,West,
+1033,Bethanga,267.3km,267.3,North-east,291800.00
+1034,Haven,272km,272,West,594900.00
+1035,McKenzie Creek,272.3km,272.3,West,
+1036,Horsham,273.4km,273.4,West,265100.00
+1037,Lake Tyers Beach,274.1km,274.1,East,326300.00
+1038,Branxholme,278km,278,West,130000.00
+1039,Balmoral,282.7km,282.7,West,127600.00
+1040,Condah,283.1km,283.1,West,
+1041,Warracknabeal,286.9km,286.9,North-west,147100.00
+1042,Lake Boga,287.3km,287.3,North-west,259600.00
+1043,Narrawong,288.8km,288.8,West,344200.00
+1044,Coleraine,289.2km,289.2,West,133100.00
+1045,Natimuk,293km,293,West,191900.00
+1046,Heywood,294.6km,294.6,West,201700.00
+1047,Dutton Way,297.3km,297.3,West,
+1048,Brim,297.5km,297.5,North-west,
+1049,Bolwarra,298.1km,298.1,West,525700.00
+1050,Berriwillock,299.6km,299.6,North-west,81600.00
+1051,Merino,300.7km,300.7,West,148300.00
+1052,Dimboola,301.2km,301.2,West,151100.00
+1053,Portland,301.7km,301.7,West,278700.00
+1054,Swan Hill,302.5km,302.5,North-west,296700.00
+1055,Portland West,303.6km,303.6,West,498300.00
+1056,Harrow,306.4km,306.4,West,
+1057,Lyons,307km,307,West,
+1058,Orbost,307.5km,307.5,East,168500.00
+1059,Beulah,307.9km,307.9,North-west,123000.00
+1060,Cudgewa,308.2km,308.2,North-east,
+1061,Woomelang,313.8km,313.8,North-west,68000.00
+1062,Marlo,314.1km,314.1,East,341200.00
+1063,Casterton,314.4km,314.4,West,140800.00
+1064,Corryong,317.5km,317.5,North-east,218500.00
+1065,Cape Bridgewater,318.1km,318.1,West,656600.00
+1066,Sea Lake,318.9km,318.9,North-west,115400.00
+1067,Jeparit,323.5km,323.5,North-west,69900.00
+1068,Dartmoor,324.3km,324.3,West,119500.00
+1069,Nyah West,326.6km,326.6,North-west,195100.00
+1070,Hopetoun,328.1km,328.1,North-west,101600.00
+1071,Edenhope,335.4km,335.4,West,202700.00
+1072,Nhill,337.4km,337.4,West,166600.00
+1073,Rainbow,339.4km,339.4,North-west,68900.00
+1074,Chinkapook,343.3km,343.3,North-west,
+1075,Nandaly,344.7km,344.7,North-west,
+1076,Nelson,348.3km,348.3,West,312500.00
+1077,Apsley,355.8km,355.8,West,88600.00
+1078,Kaniva,367.3km,367.3,West,137500.00
+1079,Cann River,370km,370,East,187500.00
+1080,Ouyen,386.6km,386.6,North-west,129000.00
+1081,Genoa,409.8km,409.8,East,
+1082,Robinvale,409.9km,409.9,North-west,262500.00
+1083,Gipsy Point,417.4km,417.4,East,
+1084,Mallacoota,423.1km,423.1,East,398300.00
+1085,Colignan,433.8km,433.8,North-west,182300.00
+1086,Red Cliffs,463.5km,463.5,North-west,221400.00
+1087,Cardross,467.3km,467.3,North-west,256400.00
+1088,Irymple,471km,471,North-west,345200.00
+1089,Koorlong,471.8km,471.8,North-west,223300.00
+1090,Nichols Point,473km,473,North-west,492400.00
+1091,Mildura,476.1km,476.1,North-west,296700.00
+1092,Birdwoodton,481.2km,481.2,North-west,296500.00
+1093,Merbein,482.7km,482.7,North-west,199800.00
